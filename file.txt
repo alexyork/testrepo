@@ -19,3 +19,5 @@ another change
 line 19
 
 Great feature!
+
+Some other feature
