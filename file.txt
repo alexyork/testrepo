@@ -21,3 +21,5 @@ line 19
 Great feature!
 
 Some other feature
+
+Another feature
